@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhraut1212&show_icons=true&locale=en&layout=compact" alt="saurabhraut1212" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhraut1212&show_icons=true&locale=en" alt="saurabhraut1212" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhraut1212&" alt="saurabhraut1212" /></p>
