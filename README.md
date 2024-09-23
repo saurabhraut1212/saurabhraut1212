@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://myportfolio-three-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://myportfolio-three-zeta.vercel.app/](https://myworkportfolio.vercel.app/))
 
 - 💬 Ask me about **MERN Stack,**
 
